@@ -1,0 +1,16 @@
+.content {
+    display: flex;
+}
+
+.left-details {
+    width: 20%;
+    padding-left: 24px;
+}
+
+.middle {
+    width: 60%;
+}
+
+.right-details {
+    width: 20%;
+}
